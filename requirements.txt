@@ -1,0 +1,11 @@
+tornado==6.0.4
+tensorflow>=1.15.0
+tensorflow-estimator>=1.15.1
+tensorboard>=1.15.0
+tensorboard-plugin-wit>=1.6.0
+pandas==1.0.4
+python-apt==1.6.5+ubuntu0.2
+python-dateutil==2.6.1
+python-debian==0.1.32
+opencv-python==4.2.0.34
+numpy==1.18.4
